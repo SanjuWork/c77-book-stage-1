@@ -1,1 +1,2 @@
-# c77-book-stage-1
+# book-santa-stage-1
+The Book Donation app
